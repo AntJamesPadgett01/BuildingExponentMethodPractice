@@ -1,0 +1,16 @@
+C:\Users\antho\repos\BuildingExponentMethodPractice\bin\Debug\net5.0\BuildingExponentMethodPractice.exe
+C:\Users\antho\repos\BuildingExponentMethodPractice\bin\Debug\net5.0\BuildingExponentMethodPractice.deps.json
+C:\Users\antho\repos\BuildingExponentMethodPractice\bin\Debug\net5.0\BuildingExponentMethodPractice.runtimeconfig.json
+C:\Users\antho\repos\BuildingExponentMethodPractice\bin\Debug\net5.0\BuildingExponentMethodPractice.runtimeconfig.dev.json
+C:\Users\antho\repos\BuildingExponentMethodPractice\bin\Debug\net5.0\BuildingExponentMethodPractice.dll
+C:\Users\antho\repos\BuildingExponentMethodPractice\bin\Debug\net5.0\ref\BuildingExponentMethodPractice.dll
+C:\Users\antho\repos\BuildingExponentMethodPractice\bin\Debug\net5.0\BuildingExponentMethodPractice.pdb
+C:\Users\antho\repos\BuildingExponentMethodPractice\obj\Debug\net5.0\BuildingExponentMethodPractice.csprojAssemblyReference.cache
+C:\Users\antho\repos\BuildingExponentMethodPractice\obj\Debug\net5.0\BuildingExponentMethodPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\BuildingExponentMethodPractice\obj\Debug\net5.0\BuildingExponentMethodPractice.AssemblyInfoInputs.cache
+C:\Users\antho\repos\BuildingExponentMethodPractice\obj\Debug\net5.0\BuildingExponentMethodPractice.AssemblyInfo.cs
+C:\Users\antho\repos\BuildingExponentMethodPractice\obj\Debug\net5.0\BuildingExponentMethodPractice.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\BuildingExponentMethodPractice\obj\Debug\net5.0\BuildingExponentMethodPractice.dll
+C:\Users\antho\repos\BuildingExponentMethodPractice\obj\Debug\net5.0\ref\BuildingExponentMethodPractice.dll
+C:\Users\antho\repos\BuildingExponentMethodPractice\obj\Debug\net5.0\BuildingExponentMethodPractice.pdb
+C:\Users\antho\repos\BuildingExponentMethodPractice\obj\Debug\net5.0\BuildingExponentMethodPractice.genruntimeconfig.cache
